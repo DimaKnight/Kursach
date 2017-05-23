@@ -1,0 +1,32 @@
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Country.resources
+C:\Users\Дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Curort.resources
+C:\Users\Дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Main.resources
+C:\Users\Дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.LogInForm.resources
+C:\Users\Дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.AddCountry.resources
+C:\Users\Дмитрий\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.AddCur.resources
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Main.resources
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.LogInForm.resources
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Country.resources
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Curort.resources
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.AddCountry.resources
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.AddCur.resources
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.DeleteForm.resources
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.DeleteCur.resources
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Edit.resources
+C:\Users\Дмитрий\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.EditCur.resources

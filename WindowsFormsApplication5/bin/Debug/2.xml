@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Korzina xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cost>
+    <int>200</int>
+    <int>300</int>
+  </Cost>
+  <Hotel>
+    <string>Костя</string>
+    <string>Костя</string>
+  </Hotel>
+  <Index>
+    <int>0</int>
+    <int>1</int>
+  </Index>
+  <CostCur />
+</Korzina>
